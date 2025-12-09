@@ -1,4 +1,4 @@
-# Personnel Testing System (MVP)
+# Study Testing System (MVP)
 Minimal PHP + PostgreSQL testing system intended for local deployment (OpenServer).
 
 ## Requirements
